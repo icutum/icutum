@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.03mb of code in 1096 edited files across 192 commits</small>
+                <small>estimation from 2.03mb of code in 1098 edited files across 194 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.41394536075694" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.41394536075694" y="0" width="22.448426816796104" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="390.8623721775531" y="0" width="14.946954296611034" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="405.8093264741641" y="0" width="12.37781580136577" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="418.18714227552994" y="0" width="11.669886857285164" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="429.8570291328151" y="0" width="11.575281807485299" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.4323109403004" y="0" width="9.653576510190119" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="451.08588745049053" y="0" width="8.914112549509555" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.7271203860935" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.7271203860935" y="0" width="22.406576771829474" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="390.13369715792294" y="0" width="14.919089060684602" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="405.05278621860754" y="0" width="12.411268880150146" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="417.4640550987577" y="0" width="12.354740146572526" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="429.81879524533025" y="0" width="11.648130976852265" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="441.4669262221825" y="0" width="9.635579587094469" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="451.102505809277" y="0" width="8.897494190723032" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -60,13 +60,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Pug
+                                TSX
                             </div>
                             <small>
-                                <div>509 lines</div>
-                                <div>18.1 kB</div>
+                                <div>498 lines</div>
+                                <div>19.2 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -98,25 +98,25 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>498 lines</div>
-                                <div>19.2 kB</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Python
                             </div>
                             <small>
-                                <div>369 lines</div>
-                                <div>17.9 kB</div>
+                                <div>403 lines</div>
+                                <div>19.3 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Pug
+                            </div>
+                            <small>
+                                <div>509 lines</div>
+                                <div>18.1 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
